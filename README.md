@@ -1,5 +1,5 @@
 # kaimith
 My personal repo
 ## Little about me:
-I like soccer
-I like to eat steak. 
+1.I like soccer
+2.I like to eat steak. 
