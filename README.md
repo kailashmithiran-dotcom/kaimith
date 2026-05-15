@@ -1,3 +1,5 @@
 # kaimith
 My personal repo
-## I like food.
+## Little about me:
+  ### I like soccer
+  ### I like to eat steak. 
